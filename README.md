@@ -1,10 +1,27 @@
 # TrackPulse: Dynamic Forecast of Expected Time of Arrival (ETA) for Coaching Trains
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FVasanth-repos%2Ftrack_pulse)
+
 > **Smart India Hackathon (SIH) Problem Statement:** SIH26028  
 > **Organization:** Ministry of Railways, Government of India  
-> **Repository:** [https://github.com/Vasanth-repos/track_pulse.git](https://github.com/Vasanth-repos/track_pulse.git)  
+> **Lead Repository:** [Vasanth-repos/track_pulse](https://github.com/Vasanth-repos/track_pulse)  
 > **Theme:** Official Government of India / IRCTC Light Accessible Portal Theme  
-> **Version:** 1.0.0 (Production-Ready Prototype)
+> **Project Version:** 1.0.0 (Production-Ready Prototype)  
+> **Live PDF Spec:** [`TrackPulse_Technical_Approach_TechStack_Workflow.pdf`](TrackPulse_Technical_Approach_TechStack_Workflow.pdf)
+
+---
+
+## ⚡ 1-Click Hosting on Vercel
+
+To host this repository on Vercel:
+
+1. Click the **Deploy with Vercel** button above or go to **[vercel.com/new](https://vercel.com/new)**.
+2. Select **`Vasanth-repos/track_pulse`** as the repository.
+3. Configure settings:
+   - **Framework Preset**: `Next.js` *(Auto-detected)*
+   - **Root Directory**: `./` *(Default)*
+   - **Build Command**: `npm run build` *(Auto-detected)*
+4. Click **Deploy**. Vercel will build and deploy the entire production application in ~60 seconds.
 
 ---
 
